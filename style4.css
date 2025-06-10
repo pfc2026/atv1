@@ -168,3 +168,8 @@ body { margin: 0; font-family: sans-serif; }
     justify-content: center; /* Centralizando os ícones */
     gap: 20px; /* Espaçamento maior entre os ícones */
     margin-top: 10px;}
+
+ .product-item {
+    position: relative;
+    text-decoration: none;
+ }
