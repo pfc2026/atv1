@@ -86,7 +86,7 @@ body {
 }
 
 .password-wrapper input {
-    padding-right: 45px; /* Espaço para o ícone do olho */
+    padding-right: 22px; /* Espaço para o ícone do olho */
 }
 
 .toggle-password {
